@@ -1,0 +1,78 @@
+/* Reboot to the previous CSS sheet - 
+too much code made wanted changes unpredictable 
+*/
+
+
+header{
+    border: ridge black 10px;
+    padding: 15px;
+    height:450px;
+    
+}
+    body{
+        font-family: sans-serif;
+        font-kerning: auto
+    }
+
+    h1{
+        font-size: 35px;
+        background-color: rgba(23, 54, 44, 0.671);
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+    h2{
+        max-width: 66%;
+    }
+
+aside{
+   /* background-image: url(map1.png)*/
+   float: right;
+   
+  \
+}
+
+nav{
+    border: solid;
+    background-color: chartreuse;
+    width: 100%;
+    height: 60px;
+}
+
+    li{
+        /*background-color: chartreuse;*/
+        list-style: none;
+        width: 250px; 
+        float: left;
+        padding: 5px;
+    }
+
+section{
+        Height: 170px;
+        padding: 10px;
+    }
+    .erie {
+        float: left;
+        margin: 10px;
+    }
+
+div{
+    width: 32%;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding: 10px;
+}
+h3{
+    font-size: 14px;
+    text-align: 50px;
+}
+
+footer{
+    clear: left;
+    background: black ;
+    color: white;
+    font-family: monospace;
+    font-size: 8px ;
+    
+}
